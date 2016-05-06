@@ -1,0 +1,28 @@
+{
+  "name": "jquery-cycle-2",
+  "version": "0.0.1",
+  "description": "Package to add support for BEM to jQuery",
+  "main": "dist/jquery.cycle.all.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/connorjburton/jquery-cycle-2.git"
+  },
+  "keywords": [
+    "jquery",
+    "jquery-cycle",
+    "jquery-cycle-2",
+    "slider"
+  ],
+  "author": "Connor Burton",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/connorjburton/jquery-cycle-2/issues"
+  },
+  "homepage": "https://github.com/connorjburton/jquery-cycle-2#readme",
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
