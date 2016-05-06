@@ -2,7 +2,7 @@
   "name": "jquery-cycle-2",
   "version": "0.0.1",
   "description": "Package to add support for BEM to jQuery",
-  "main": "dist/jquery.cycle.all.js",
+  "main": "src/jquery.cycle.all.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
