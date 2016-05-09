@@ -1,6 +1,6 @@
 {
   "name": "jquery-cycle-2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Package to add support for BEM to jQuery",
   "main": "src/jquery.cycle.all.js",
   "scripts": {
