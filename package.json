@@ -1,7 +1,7 @@
 {
   "name": "jquery-cycle-2",
   "version": "1.0.2",
-  "description": "Package to add support for BEM to jQuery",
+  "description": "Repackage of jQuery Cycle 2",
   "main": "src/jquery.cycle.all.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
